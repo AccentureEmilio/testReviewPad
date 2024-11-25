@@ -21,7 +21,7 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None) 
 
 file1_path = "ifactory_sett.xlsx"
-file2_path = "risorse.xlsx"
+file2_path = "risorse.xlsx
 
 
 df1 = pd.read_excel(file1_path)
