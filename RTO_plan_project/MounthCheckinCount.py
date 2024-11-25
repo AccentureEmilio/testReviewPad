@@ -16,7 +16,7 @@ import webbrowser
 # Disabilita i FutureWarning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-
+'''conte le presenze in ufficio'''
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None) 
 
